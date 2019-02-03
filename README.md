@@ -1,12 +1,12 @@
 
+# How to set up a test suite to handle various Google apps
+
 ## Google apps shown in Gmail 
 
 <img src="google_apps.png" width="400" height="400">
 
 ## Test frame structure
 
-
-## Setting up tests to handle all Google apps
 
 ### Step 1 - Set up a parent directory called Google_Play_App_Suite.  
 

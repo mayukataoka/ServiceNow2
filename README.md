@@ -1,4 +1,7 @@
 
+<img src="google_apps.png" width="200" height="400">
+<img src="directory.png" width="200" height="400">
+
 ## Setting up tests to handle all Google apps
 
 ### Step 1 - Set up a parent directory called Google_Play_App_Suite.  

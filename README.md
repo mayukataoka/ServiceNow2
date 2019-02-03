@@ -5,14 +5,16 @@
 
 ## Test frame structure
 
-<img src="directory.png" width="400" height="200">
 
 ## Setting up tests to handle all Google apps
 
 ### Step 1 - Set up a parent directory called Google_Play_App_Suite.  
+
 The package name starts from Google_Play_App_Suite. 
 
 - Google_Play_App_Suite
+
+<img src="directory.png" width="400" height="200">
 
 ### Step 2 - Set up a common directory called Google_Common and store common test functions. 
 The common code to share among Google app suite goes here.  Example, login, app switcher, etc.  

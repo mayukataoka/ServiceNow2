@@ -1,5 +1,5 @@
 
-<img src="google_apps.png" width="400" height="200">
+<img src="google_apps.png" width="400" height="300">
 <img src="directory.png" width="400" height="200">
 
 ## Setting up tests to handle all Google apps

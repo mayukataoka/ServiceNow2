@@ -1,5 +1,10 @@
 
+## Google apps shown in Gmail 
+
 <img src="google_apps.png" width="400" height="400">
+
+## Test frame structure
+
 <img src="directory.png" width="400" height="200">
 
 ## Setting up tests to handle all Google apps
